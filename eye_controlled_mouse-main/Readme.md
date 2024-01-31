@@ -1,6 +1,6 @@
-Eye Controlled Mouse using MediaPipe and OpenCV
-Introduction
-This Python script demonstrates how to create an eye-controlled mouse using MediaPipe and OpenCV libraries. The script tracks facial landmarks, particularly eye movements, to control the mouse cursor on the screen. When the user blinks or maintains a specific eye gesture, it simulates a mouse click action.
+<h1>Eye Controlled Mouse using MediaPipe and OpenCV</h1>
+<h2>Introduction</h2>
+<p>This Python script demonstrates how to create an eye-controlled mouse using MediaPipe and OpenCV libraries. The script tracks facial landmarks, particularly eye movements, to control the mouse cursor on the screen. When the user blinks or maintains a specific eye gesture, it simulates a mouse click action.<p>
 
 Prerequisites
 Ensure you have the following libraries installed:
